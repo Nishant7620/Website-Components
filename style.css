@@ -16,6 +16,7 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 30px 10%;
+    background-color:rgb(61, 128, 128);
 }
 
 .logo {
@@ -31,7 +32,7 @@ header {
 }
 
 .nav_links li a {
-    transition: all 03s ease 0s;
+    transition: all 0.3s ease 0s;
 }
 
 .nav_links li a:hover {
@@ -40,5 +41,15 @@ header {
 
 button {
     padding:  9px 25px;
-    
+    background-color: rgb(0,136,169,1);
+    border:  none;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
+
+}
+
+button:hover {
+    background-color: rgba(15, 70, 84, 0.8);
+
 }
