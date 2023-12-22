@@ -6,7 +6,7 @@
 
 li,a,button {
     font-weight: 500;
-    font-size: 16px;
+    font-size: 20px;
     color: black;
     text-decoration: none;
 }
@@ -15,7 +15,7 @@ header {
     display: flex;
     justify-content:flex-end;
     align-items: center;
-    padding: 30px 10%;
+    padding: 20px 10%;
     background-color:rgb(61, 128, 128);
 }
 
