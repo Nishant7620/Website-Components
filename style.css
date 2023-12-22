@@ -2,6 +2,14 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+   
+}
+
+body {
+    background-image: url(images/background.jpg.jpg);
+    background-size:100%;
+    background-repeat: no-repeat;
+    background-position: ;
 }
 
 li,a,button {
